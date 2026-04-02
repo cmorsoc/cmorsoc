@@ -4,10 +4,10 @@ Bienvenido a mi perfil de GitHub. Soy **Licenciado en Informática** de formaci�
 Actualmente trabajo como **Coordinador en el Área de Tecnología Educativa (ATE)** en Canarias... Y básicamente soy una persona curiosa hasta la médula y un eterno aprendiz.
 
 ### 🌌 Astronomía y ciencia ciudadana
-La astronomía es, con diferencica, mi gran pasión:
-* **Proyectos STEAM:** He prototipado, diseñado y coordinado los proyectos **"Asteroid Hunters in The Canary Islands"** y **"Caracterización de Estrellas Variables"** para la Consejería de Educación de Canarias, de hecho... ¡En ellos se descubrieron las primeras estrellas variables por parte de escolares en España! 
+La astronomía es, con diferencia, mi gran pasión:
+* **Proyectos STEAM:** He prototipado, diseñado y coordinado los proyectos **"Asteroid Hunters in The Canary Islands"** y **"Caracterización de Estrellas Variables"** para la Consejería de Educación de Canarias, de hecho... ¡En ellos se descubrieron las primeras estrellas variables por parte de escolares en España! ¡Primera vez que se hacía una aportación científica real desde el aula!
 * **Asociación AAEC:** Soy Presidente de la **Asociación Astronómica y Educativa de Canarias "Henrietta Swan Leavitt"** ([astronomiayeducacion.org](https://www.astronomiayeducacion.org)).
-* **Inclusión:** Coordinador de los primeros talleres de **Sonificación** para alumnado con discapacidad visual, logrando el descubrimiento de la primera estrella variable por escolares con esta diversidad funcional (UCAC4 459-092739)... ¡¡en la historiaaaaa!!
+* **Inclusión:** Coordinador de los primeros talleres de **Sonificación** para alumnado con discapacidad visual, logrando el descubrimiento de la primera estrella variable por escolares con esta diversidad funcional (UCAC4 459-092739). 
 * **Mentoría AAVSO:** Mentor en España de la **American Association of Variable Star Observers**.
 
 ### 🚀 Tecnología Educativa e Innovación
